@@ -3,7 +3,7 @@
 
 Welcome to my GitHub page!
 
-I am a twenty years old Java coding hobbyist who
+I am a twenty years old, native german Java coding hobbyist who
 loves to code plugins for multiplayer
 servers in Minecraft.
 
