@@ -1,4 +1,4 @@
-[![IchMagOmasKekse's GitHub stats](https://github-readme-stats.vercel.app/api?username=IchMagOmasKekse&theme=merko&show_icons=true)](https://github.com/IchMagOmasKekse/github-readme-stats)
+[![BlazeDotJar's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeDotJar&theme=merko&show_icons=true)](https://github.com/BlazeDotJar/github-readme-stats)
 
 
 Welcome to my GitHub page!
