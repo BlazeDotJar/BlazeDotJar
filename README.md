@@ -4,14 +4,5 @@
 Welcome to my GitHub page!
 
 I am a native german Java coding hobbyist in his twenties who
-loves to code plugins for multiplayer
-servers in Minecraft.
-
-Since I am an electrician, my job has nearly nothing todo with coding,
-I also never had a job in that direction.
-So I had to teach me everything I have to know to be able
-to engineer and code plugins.
-
-I also love to code software for Windows.
-Tried to create 2D GameEngines a few times, in Java, C++ and in C#.
-Last but not least I am trying me out in php, javascript, html and css.
+loves to code.
+Java, C#, C++, HTML, JavaScript, PHP, CSS
